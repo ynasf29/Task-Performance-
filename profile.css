@@ -65,9 +65,6 @@ nav .content .links{
 .wrapper .menu-icon{
   display: none;
 }
-.wrapper #show-search:checked ~ .search-icon i::before{
-  content: "\f00d";
-}
 .wrapper #show-search:checked ~ .search-box{
   opacity: 1;
   pointer-events: auto;
